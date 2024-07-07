@@ -27,5 +27,5 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=NikeYT&no-frame=true)
 
 ## Поддержка
-Можно поблагодарить сообщества, людей, открытые исходники, которые вам помогли.
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Timur854)
 
