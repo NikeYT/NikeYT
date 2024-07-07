@@ -9,6 +9,7 @@
 <p align="center">
  <img width="900" src="assets/github-snake.svg" alt="snake"/>
 </p>
+
 ## О себе
 Я программист, увлекаюсь различными аспектами программирования и разработки.
 
