@@ -1,4 +1,11 @@
 ## Приветствую 👋
+
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=NikeYT&style=for-the-badge&color=green" alt=""/>
+</div>
+
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Timur854)
+
 <p align="center">
  <img width="900" src="assets/github-snake.svg" alt="snake"/>
 </p>
@@ -26,7 +33,4 @@
 
 ## Статистика
 ![trophy](https://github-profile-trophy.vercel.app/?username=NikeYT&no-frame=true)
-
-## Поддержка
-[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/Timur854)
 
