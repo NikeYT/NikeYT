@@ -11,7 +11,7 @@
 - Написание скриптов на Python и Rust
 
 ## Контакты
-- [Ваш сайт или портфолио](https://example.com)
+- [Мой сайт](http://u777174p.beget.tech/)
 - [LinkedIn](https://linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourhandle)
 
