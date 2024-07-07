@@ -26,7 +26,7 @@
 - Инструменты: Git, IDX, IDE Cursor
 
 ## Статистика
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true)
 
 ## Благодарность
 Можно поблагодарить сообщества, людей, открытые исходники, которые вам помогли.
